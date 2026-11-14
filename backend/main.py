@@ -26,6 +26,18 @@ MARKET_DATA = {
         {"name": "Vanguard Total World", "symbol": "VT", "price": 119.84, "change_pct": 0.41},
         {"name": "iShares Core MSCI EAFE", "symbol": "IEFA", "price": 76.32, "change_pct": -0.12},
     ],
+    "indian_etfs": [
+        {"name": "Nippon India ETF Nifty 50", "symbol": "NIFTYBEES", "price": 285.00, "change_pct": 1.84, "day_low": 283.40, "week_low": 277.80, "month_low": 261.20, "year_low": 219.50},
+        {"name": "Nippon India ETF Bank BeES", "symbol": "BANKBEES", "price": 528.00, "change_pct": 1.61, "day_low": 524.00, "week_low": 510.00, "month_low": 480.00, "year_low": 421.00},
+        {"name": "Nippon India ETF Nifty Midcap 150", "symbol": "MID150BEES", "price": 205.00, "change_pct": 1.48, "day_low": 202.80, "week_low": 198.40, "month_low": 190.20, "year_low": 157.40},
+        {"name": "Nippon India ETF Nifty Next 50", "symbol": "JUNIORBEES", "price": 683.00, "change_pct": 1.32, "day_low": 678.00, "week_low": 661.00, "month_low": 624.00, "year_low": 542.00},
+        {"name": "Nippon India ETF Nifty IT", "symbol": "ITBEES", "price": 43.20, "change_pct": 1.17, "day_low": 42.85, "week_low": 41.90, "month_low": 39.60, "year_low": 31.75},
+        {"name": "Nippon India ETF Gold BeES", "symbol": "GOLDBEES", "price": 74.60, "change_pct": 0.95, "day_low": 74.10, "week_low": 72.30, "month_low": 69.80, "year_low": 54.20},
+        {"name": "Nippon India ETF Nifty Pharma", "symbol": "PHARMABEES", "price": 23.80, "change_pct": 0.84, "day_low": 23.65, "week_low": 22.90, "month_low": 21.50, "year_low": 17.10},
+        {"name": "Nippon India ETF Nifty CPSE", "symbol": "CPSEETF", "price": 94.20, "change_pct": 0.71, "day_low": 93.80, "week_low": 91.70, "month_low": 88.50, "year_low": 70.20},
+        {"name": "Nippon India ETF Nifty Auto", "symbol": "AUTOBEES", "price": 123.00, "change_pct": 0.62, "day_low": 122.00, "week_low": 119.00, "month_low": 112.00, "year_low": 88.00},
+        {"name": "SBI ETF Nifty 50", "symbol": "SETFNIF50", "price": 251.00, "change_pct": 0.54, "day_low": 249.50, "week_low": 244.00, "month_low": 231.00, "year_low": 194.00},
+    ],
     "regions": [
         {"name": "Americas", "status": "Open", "tone": "positive"},
         {"name": "Europe", "status": "Mixed", "tone": "neutral"},
